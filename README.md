@@ -13,7 +13,7 @@
 <div id="header" align="center">
     <a href="https://twitter.com/mael089">
         <img
-            src="https://img.shields.io/twitter/follow/mael089?color=purple&logo=twitter&logoColor=blue&style=for-the-badge"
+            src="https://img.shields.io/twitter/follow/@mael089?color=purple&label=sigueme&logo=twitter&logoColor=blue&style=for-the-badge"
             alt=""
         />
     </a>
